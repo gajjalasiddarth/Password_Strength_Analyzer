@@ -30,7 +30,6 @@ Password Strength Analyzer is a Python-based desktop application that checks the
 ```
 password-strength-analyzer/
 │── gui.py
-│── app.py
 │── passwords.db
 │── README.md
 │── requirements.txt
